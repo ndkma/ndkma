@@ -1,23 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Nicholas
+#### I am a self-taught programmer
+![I am a self-taught programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**ndkma/ndkma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on my Data Science, Machine Learning and Deep Learning skills.
 
-Here are some ideas to get you started:
+Skills: Python / Pandas / Plotly / Streamlit / SQL / spaCy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Stock Market Sentiment Analysis 
+- 🌱 I’m currently learning about computer vision 
+- 📫 How to reach me: LinkedIn, Facebook (links are below!) 
+- ⚡ Fun fact: I'm a licensed Chess National Arbiter (NA) 
 
-![ndkma's Stats](https://github-readme-stats.vercel.app/api?username=ndkma&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![ndkma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndkma&theme=dark&hide_border=true)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ndkma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicholas-dykema/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Nico-Dykema)  
 
-![ndkma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndkma&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndkma)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ndkma&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ndkma)  
