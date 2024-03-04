@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Nicholas
 #### I am a self-taught programmer
-![I am a self-taught programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm currently working on my Data Science, Machine Learning and Deep Learning skills.
 
