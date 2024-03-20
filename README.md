@@ -15,4 +15,3 @@
 ♟️ Fun fact: I'm a licensed Chess National Arbiter (NA).  
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ndkma&show_icons=true&count_private=true)-->
-
