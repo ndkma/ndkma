@@ -9,6 +9,8 @@
 ![](https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Jupyter&nbsp;Notebooks-informational?style=flat&logo=jupyter&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=397dbd)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=397dbd)
+
 
 ⌨️ I’m currently working on Stock Market Sentiment Analysis.  
 📖 I'm currently studying Machine Learning, Neural Networks and Generative AI.  
