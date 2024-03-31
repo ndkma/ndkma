@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=397dbd)
 
 
-⌨️ I’m currently working on Stock Market Sentiment Analysis.  
+⌨️ I’m currently working on AI Engineering.  
 📖 I'm currently studying Machine Learning, Neural Networks and Generative AI.  
 ♟️ Fun fact: I'm a licensed Chess National Arbiter (NA).  
 
