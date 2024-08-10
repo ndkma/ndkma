@@ -1,6 +1,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicholas-dykema/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Nico-Dykema) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ndkma) 
 
-#### I'm Nicholas, a self-taught software and game developer.
+#### I'm Nicholas, a self-taught software and (hopefully someday) game developer.
 #### I'm from 🇿🇦 South Africa but I live in 🇭🇰 Hong Kong.
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=397dbd)
