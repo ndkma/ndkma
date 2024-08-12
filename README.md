@@ -4,8 +4,8 @@
 #### I'm from 🇿🇦 South Africa but I live in 🇭🇰 Hong Kong.
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=397dbd)
-![](https://img.shields.io/badge/Godot%20Engine-informational?style=flat&logo=godotengine&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/GDScript-informational?style=flat&logo=godotengine&logoColor=white&color=397dbd)
+![](https://img.shields.io/badge/Godot%20Engine-informational?style=flat&logo=godotengine&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=397dbd)
