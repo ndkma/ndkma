@@ -4,14 +4,15 @@
 #### I'm from 🇿🇦 South Africa but I live in 🇭🇰 Hong Kong.
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=397dbd)
+![](https://img.shields.io/badge/Godot%20Engine-informational?style=flat&logo=godotengine&logoColor=white&color=397dbd)
+![](https://img.shields.io/badge/GDScript-informational?style=flat&logo=godotengine&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Jupyter&nbsp;Notebooks-informational?style=flat&logo=jupyter&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=397dbd)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=397dbd)
-![](https://img.shields.io/badge/Godot%20Engine-informational?style=flat&logo=godotengine&logoColor=white&color=397dbd)
-![](https://img.shields.io/badge/GDScript-informational?style=flat&logo=godotengine&logoColor=white&color=397dbd)
+
 
 
 ⌨️ I’m currently working on 2D and mobile games.  
